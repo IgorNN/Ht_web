@@ -1,0 +1,4 @@
+search: --tags @search --format html --out search_feature_report.html --format pretty
+sign_up: --tags @sign_up --format html --out sign_up_report.html --format pretty
+smoke: --tags @smoke --format html --out smoke_report.html --format pretty
+wip: --tags @wip --format html --out wip_report.html --format pretty
